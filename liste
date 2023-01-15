@@ -1,0 +1,60 @@
+2
+2022-10-022022-11-01
+Chambre{id=1
+Client{id=1, nom='Alaoui1', telephone='06666666661', email='alaoui@gmail.com'}
+3
+2022-12-022022-12-03
+Chambre{id=3
+Client{id=6, nom='Alaouia', telephone='0666666660', email='alaouiali4Mod@gmail.com'}
+4
+2022-12-012022-12-02
+Chambre{id=2
+Client{id=5, nom='Alaoui3Modi', telephone='0666666663Modi', email='alaouiali3@gmail.comModif'}
+5
+2022-12-152022-12-08
+Chambre{id=5
+Client{id=1, nom='Alaoui1', telephone='06666666661', email='alaoui@gmail.com'}
+6
+2022-12-032022-12-03
+Chambre{id=1
+Client{id=1, nom='Alaoui1', telephone='06666666661', email='alaoui@gmail.com'}
+7
+2022-10-052022-11-06
+Chambre{id=5
+Client{id=6, nom='Alaouia', telephone='0666666660', email='alaouiali4Mod@gmail.com'}
+8
+2022-10-302022-11-20
+Chambre{id=4
+Client{id=4, nom='Alaoui2', telephone='0666666662', email='alaouiali2@gmail.com'}
+9
+2022-12-012022-12-15
+Chambre{id=3
+Client{id=5, nom='Alaoui3Modi', telephone='0666666663Modi', email='alaouiali3@gmail.comModif'}
+10
+2022-10-022022-11-01
+Chambre{id=1
+Client{id=1, nom='Alaoui1', telephone='06666666661', email='alaoui@gmail.com'}
+11
+2022-02-022022-02-01
+Chambre{id=1
+Client{id=1, nom='Alaoui1', telephone='06666666661', email='alaoui@gmail.com'}
+12
+2022-02-022022-02-01
+Chambre{id=1
+Client{id=1, nom='Alaoui1', telephone='06666666661', email='alaoui@gmail.com'}
+13
+2022-02-022022-02-01
+Chambre{id=1
+Client{id=1, nom='Alaoui1', telephone='06666666661', email='alaoui@gmail.com'}
+14
+2022-02-022022-02-01
+Chambre{id=1
+Client{id=1, nom='Alaoui1', telephone='06666666661', email='alaoui@gmail.com'}
+15
+2022-02-022022-02-01
+Chambre{id=1
+Client{id=1, nom='Alaoui1', telephone='06666666661', email='alaoui@gmail.com'}
+16
+2022-02-022022-02-01
+Chambre{id=1
+Client{id=1, nom='Alaoui1', telephone='06666666661', email='alaoui@gmail.com'}
